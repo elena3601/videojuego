@@ -1,4 +1,4 @@
-# videojuego phantomas
+# <center> videojuego phantomas </center>
 
 # Objetivo 
 
