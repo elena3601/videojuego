@@ -1,6 +1,5 @@
-# \begin{center}
-videojuego phantomas
-\end{center}
+#videojuego phantomas
+
 
 # Objetivo 
 
