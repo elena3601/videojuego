@@ -1,4 +1,4 @@
-# <center> videojuego phantomas </center>
+# /begin {center} videojuego phantomas /end {center}
 
 # Objetivo 
 
