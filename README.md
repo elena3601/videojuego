@@ -26,6 +26,9 @@ Docente: M.T. I Marco Antonio Ramírez Hernández
 <br/>
 Periodo: Septiembre - Diciembre
 
+<br/>
+<br/>
+
 ![fONDO_GIT](https://user-images.githubusercontent.com/88748978/196844512-67e6859d-bbe4-40b8-85d6-fc6546c42719.png)
 
 
