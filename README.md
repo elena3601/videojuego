@@ -1,4 +1,6 @@
-# /begin{center} videojuego phantomas /end{center}
+# \begin{center}
+videojuego phantomas
+\end{center}
 
 # Objetivo 
 
